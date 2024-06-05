@@ -1,6 +1,5 @@
 const mongoose = require('mongoose');
 
-
 const PostsModel = mongoose.model(
     //"node-video-api",
     //"users-db-test",
